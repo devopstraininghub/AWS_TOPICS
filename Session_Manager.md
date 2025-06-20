@@ -157,7 +157,7 @@ You can configure AWS Systems Manager to log all session output to:
 
 * Admin access to EC2 without opening SSH.
 * Troubleshooting Linux/Windows servers.
-* Run commands across fleets securely.
+* Run commands across fleets securely , especially for Patching activities 
 * Easier compliance and auditing.
 
 
